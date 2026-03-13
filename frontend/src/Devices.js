@@ -55,7 +55,7 @@ padding:"20px",
 textAlign:"center"
 }}>
 
-<img src={d.img} width="60"/>
+<img src={d.img} alt={d.name} width="60"/>
 
 <h3>{d.name}</h3>
 
